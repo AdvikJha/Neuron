@@ -71,7 +71,7 @@ print("Final Bias: ", bias)
 while True:
     newX = input("\nInput your x value to get the y value that matches this pattern or press enter to leave: ")
     try:
-        print(float(newX)*weight + bias)
+        print(neuron(float(newX), weight, bias))
     except TypeError:
         break
     except ValueError:
