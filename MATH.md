@@ -1,5 +1,5 @@
 # Math
-This is all the math involved to make this neuron.
+This is all the math involved to make this neuron. It requires some knowledge of Precalculus (Summations and Sigma Notation) and Multivariable Calculus (Partial Derivatives).
 
 ## The Neuron
 The neuron uses the equation, $\hat{y} = wx + b$, as the format where w is weight, b is bias, and $\hat{y}$ is the prediction. This equation is the same as the equation of a line which is why the coordinates given as inputs must be colinear.
