@@ -7,3 +7,5 @@ This is an Artificial Intelligence neuron that works in the exact same way as la
 3. The Neuron adjusts weight and bias based on the derivative.
 4. Steps 1-3 repeat until loss is less than 0.00000001
 5. The Neuron estimates the value of weight and bias to 3 decimal places.
+
+[See the Math involved](MATH.md)
